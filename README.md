@@ -10,16 +10,10 @@
 
 ### 🛠️ Stack Tecnológico
 
-<p align="center">
-  <img src="https://shields.io" alt="SQL">
-  <img src="https://shields.io" alt="PowerBI">
-  <img src="https://shields.io" alt="Python">
-  <img src="https://shields.io" alt="Jira">
-  <img src="https://shields.io" alt="Zephyr">
-  <br>
-  <img src="https://shields.io" alt="Postman">
-  <img src="https://shields.io" alt="Selenium">
-  <img src="https://shields.io" alt="Playwright">
+<p align="left">
+  <img src="assets/python.svg" alt="Python"><br>
+  <img src="assets/github-repo-blue.svg" alt="Github">
 </p>
+
 
 
