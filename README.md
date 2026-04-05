@@ -6,8 +6,8 @@
 
 ## I’m a huge fan of datasets and PUMAS UNAM
 
-![Goooya](https://github.com/user-attachments/assets/5c7d68c3-836e-4eed-9bf6-7f71e3192189)
 
+<img src="https://github.com/user-attachments/assets/95d67f2b-9ada-4d48-a154-c97c8785a6a2" width="400">
 
 ### Tools
 - SQL
