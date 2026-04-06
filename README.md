@@ -8,12 +8,26 @@
 </p>
 
 
-### 🛠️ Stack Tecnológico
+### 🛠️  Data Tools
 
 <p align="left">
   <img src="assets/python.svg" alt="Python"><br>
-  <img src="assets/github-repo-blue.svg" alt="Github">
+   <img src="assets/Oracle.svg" alt="Oracle"><br> 
+  <img src="assets/powerbi.svg" alt="Powerbi"><br>
+  <img src="assets/Excel.svg" alt="Excel"><br>
 </p>
 
+### Documentation
+<p align="left">
+  <img src="assets/github.svg" alt="Github"><br>
+  <img src="assets/jira.svg" alt="Jira"><br>
+  <img src="assets/confluence.svg" alt="Confluence"><br>
 
+</p>
+
+### APIS
+<p align="left">
+ <img src="assets/Postman.svg" alt="Postman"><br>
+ <img src="assets/Selenium.svg" alt="Selenium"><br>
+</p>
 
